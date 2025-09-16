@@ -1,0 +1,24 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0
+python-multipart>=0.0.9
+
+# Azure
+azure-search-documents>=11.6.0b7
+azure-identity>=1.17.0
+openai>=1.42.0
+
+# Agents / Orchestration
+langchain>=0.2.6
+langchain-openai>=0.1.11
+tiktoken>=0.7.0
+
+# NLP + evaluation
+numpy>=1.26.4
+scikit-learn>=1.4.2
+nltk>=3.8.1
+rouge-score>=0.1.2
+sacrebleu>=2.4.0
+
+# Optional cache
+redis>=5.0.4

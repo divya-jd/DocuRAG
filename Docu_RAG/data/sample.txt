@@ -1,0 +1,3 @@
+Azure AI Search enables hybrid retrieval (BM25 + vector).
+Azure OpenAI provides GPT models.
+FastAPI is ideal for async Python services.
