@@ -79,5 +79,3 @@ You can smoke‑test the server locally without Azure by calling `/health` and u
 - Add **telemetry**: latency, token usage, cache hit rate.
 - Scale via **Azure App Service** or **Azure Functions** (HTTP trigger pointing to `app.main:app`).
 
-## License
-MIT
